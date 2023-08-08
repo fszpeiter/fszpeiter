@@ -44,3 +44,9 @@ src="https://img.shields.io/github/followers/fszpeiter?logo=github&style=for-the
 <a href="http://www.github.com/fszpeiter"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=fszpeiter&bg_color=27272a&color=ffffff&line=3382ed&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/fszpeiter" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fszpeiter&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
