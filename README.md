@@ -4,7 +4,7 @@ Hi 👋 My name is Fabio Szpeiter
 IT Business Analyst
 -------------------
 
-IT professional with 4 years of experience in the IT consulting industry. 2 years at Americanas S.A as an IT business analyst focused on CRM functional implementation (Salesforce). Passionate about learning new technologies to solve complex business problems. I have expertise in CRM consulting and am currently learning about some new trending data science tools, solutions, and programming languages. I´m currently a Master of Science in Information Science and Technology at FSU (Florida State University) with emphasis on data analytics and IT management.
+IT professional with 4 years of experience in the IT consulting industry. 2 years at Americanas S.A as an IT business analyst focused on CRM functional implementation (Salesforce). Passionate about learning new technologies to solve complex business problems. I have expertise in CRM consulting and am currently learning about some new trending data science tools, solutions, and programming languages. I´m currently a Master of Science in Information Science and Technology degree at FSU (Florida State University) with emphasis on data analytics and IT management.
 
 * 🌍  I'm based in São Paulo, Brazil.
 * ✉️  You can contact me at [fszpeiter4@gmail.com.](mailto:fszpeiter4@gmail.com.)
